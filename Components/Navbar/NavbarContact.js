@@ -10,7 +10,7 @@ import { ImLocation } from 'react-icons/im';
 
 const NavbarContact = () => {
     return (
-        <div className="bg-gray-900 text-white hidden lg:block sticky -top-0">
+        <div className="bg-gray-100 text-gray-900 hidden lg:block ">
             <div className="flex flex-col lg:flex-row lg:justify-between container mx-auto py-3 px-5">
                 <div className="flex justify-center items-center gap-5">
                     <Link className="font-bold text-lg" href="">
